@@ -129,3 +129,27 @@ li {
   color: gray;
   text-align: center;
 }
+
+.quote-section {
+  display: flex;
+  justify-content: center;
+  color: #1f2937;
+  background-color: #e5e7eb;
+  padding: 100px 0;
+}
+
+.quote-container i {
+  font-weight: 300;
+  font-size: 36px;
+}
+
+.quote-name {
+  font-size: 28px;
+  font-weight: 700;
+  text-align: right;
+  padding-right: 25px;
+}
+
+.quote-container {
+  max-width: 780px;
+}
