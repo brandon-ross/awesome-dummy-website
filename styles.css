@@ -153,3 +153,39 @@ li {
 .quote-container {
   max-width: 780px;
 }
+
+.cta {
+  margin: 100px 0;
+}
+
+.cta-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3882f6;
+  padding: 50px 200px;
+  color: #f9faf8;
+  border-radius: 15px;
+}
+
+.cta button {
+  color: #f9faf8;
+  background-color: #3882f6;
+  border: 2px solid #f9faf8;
+  font-weight: 900;
+  border-radius: 6px;
+  padding: 5px 35px;
+  font-size: 18px;
+}
+
+.cta-title {
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.cta-subtext {
+  font-size: 18px;
+  color: #e5e7eb;
+}
